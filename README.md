@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @joefsamuel (B.Eng.)!
 ## I **research & engineer** things!
 - 👀 My interests lie in the intersection of science, technology, design, and engineering.
-- 🌱 I’m currently a graduate research student specializing in **Cybersecurity & Data Science**.
-- 💞️ I’m looking to collaborate on projects that create a positive impact on society and will challenging me further.
+- 🌱 I’m currently a security engineer @Ford.
 - 📫 Let's connect! DM me [@Linkedin](https://www.linkedin.com/in/joefs/).
 - :smiley: Curious about my experience? Learn more on my [**website**](https://JoeFS.com).
 
