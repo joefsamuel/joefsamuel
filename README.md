@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @joefsamuel (MASc, B.Eng)!
+# 👋 Hi, I’m @joefsamuel (MASc, BEng)!
 ## I **research & engineer** things!
 - 👀 My interests lie in the intersection of science, technology, design, and engineering.
 - 🌱 I’m currently a security engineer @Ford.
